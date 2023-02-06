@@ -15,7 +15,7 @@ public class Desktop implements Hardware , Software{
     private void desktop() {
 		System.out.println("Windows");
 		System.out.println("pushed by ajju");
-	
+	    System.out.println("pushed");
 }	
 
 public static void main(String[] args) {
