@@ -12,16 +12,18 @@ public class Desktop implements Hardware , Software{
 		
 	}
   
+    private void desktop() {
+		System.out.println("Windows");
+		System.out.println("pushed by ajju");
 	
-	
-
+}	
 
 public static void main(String[] args) {
 	
 	Desktop d = new Desktop();
 	d.hardwareResources();
 	d.softwareResources();
-
+    
 	
 }
 }
