@@ -13,7 +13,10 @@ public class Desktop implements Hardware , Software{
 	}
   
 	
-	
+      private void desktop() {
+		
+    	  System.out.println("pushed by grish");
+	}
 
 
 public static void main(String[] args) {
